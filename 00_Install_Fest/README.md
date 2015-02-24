@@ -50,7 +50,7 @@ Should be "rails 4.2". If you do not have the correct version of Ruby or Rails, 
 
 * Open up the application Terminal and run the command below to install Homebrew
 
-`ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"`
+`ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
 * Copy and paste this in the command line: `echo 'export PATH="/usr/local/bin:/usr/local/sbin:~/bin:$PATH"' >> ~/.bash_profile`
 
@@ -93,7 +93,7 @@ Running the following command will install the latest version of Ruby as well as
 
 **Note: Do note use `sudo` for this command!**
 
-`gem install rails -v 4.1.4`
+`gem install rails -v 4.2`
 
 
 # Ubuntu Instructions
