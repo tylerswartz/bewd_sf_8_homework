@@ -14,7 +14,7 @@
 
 ####Task Instructions
 
-- Follow the instructions in the Homework repository: https://github.com/ga-students/BEWD_SF_5_homework
+- Follow the instructions in the Homework repository: https://github.com/ga-students/BEWD_SF_8_homework
 - Clone the new repository to your computer
 - In your personal folder that you created, add a .txt file named blog and type your name and the URL to your blog
 - Commit your changes
