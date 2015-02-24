@@ -1,6 +1,6 @@
 ![BEWD_Logo](../assets/BEWD_Logo.png)
 
-#Resources - Working Like A Developer 
+#Resources - Working Like A Developer
 
 Class is over, but here are some extra resources.
 
@@ -13,7 +13,7 @@ Slide can be found in the `slides` folder of each class.
 
 The terminal (command prompt on Windows) is the developer way of navigating your computer. You are probably used to using the graphical interface provided (Finder on a mac and MyComputer on Windows).
 
-Here is a quick reference for some of the most common commands you will use in this class. 
+Here is a quick reference for some of the most common commands you will use in this class.
 Remember when you see ```“$”``` or ```“C:\>”``` in these notes that is the prompt, don’t type it.
 
  		$  MAC
@@ -58,7 +58,7 @@ How do I delete a folder?
 		c:\> rmdir folder-name
 
 How do I delete a file?
-		
+
 		$ rm -f file_name
 		C:\> del file_name
 
@@ -78,21 +78,21 @@ You can rename a file the same way
 
 __How is my instructor moving so fast?__
 
-They’re using shortcuts in the command line. 
+They’re using shortcuts in the command line.
 
 Here are some to help you keep up (on Mac and Linux):
 
-**Tab Completion**: Press Tab to complete folder and file names                                                       
+**Tab Completion**: Press Tab to complete folder and file names
 
-**Control + a**: Go to the beginning of the line                                                                      
+**Control + a**: Go to the beginning of the line
 
-**Control + e**: Go the the end of the line                                                                      
+**Control + e**: Go the the end of the line
 
 **Option + b**: Move back one word
 
 **Option + f**: Move forward one word
 
-**Up/Down Arrow Keys**: Repeats previous commands                                                               
+**Up/Down Arrow Keys**: Repeats previous commands
 
 **Control + w**: Delete last word typed
 
@@ -100,8 +100,8 @@ Here are some to help you keep up (on Mac and Linux):
 
 **Control + y**: Paste last deleted item
 
-**Control + l**: Clear the screen        
- 
+**Control + l**: Clear the screen
+
 
 ##Git Diagrams and Pictures
 
@@ -117,14 +117,17 @@ __Adding A Remote__
 
 [GitHub help](https://help.github.com/articles/adding-a-remote)
 
-##Still Feel Lost? 
-###Catch Up With These Resources
+## Homework
+
+- [Getting Started with Git and Github](https://generalassemb.ly/online/videos/getting-started-with-git-and-github) on General Assembly Front Row
+
+- [Command Line Crash Course](http://cli.learncodethehardway.org/book/)
+
+- [Intro to Git Videos](http://git-scm.com/videos)
 
 
--	[Command Line Crash Course](http://cli.learncodethehardway.org/book/)
+## Still Feel Lost? More resources
 
--	[GitHub Cheat Sheet](https://na1.salesforce.com/help/doc/en/salesforce_git_developer_cheatsheet.pdf)
+- [GitHub Cheat Sheet](https://na1.salesforce.com/help/doc/en/salesforce_git_developer_cheatsheet.pdf)
 
--	[Intro to Git Videos](http://git-scm.com/videos)
-
--	[Intro to Git Tutorial](http://www.codeschool.com/courses/try-git) from Code School.
+- [Intro to Git Tutorial](http://www.codeschool.com/courses/try-git) from Code School.
