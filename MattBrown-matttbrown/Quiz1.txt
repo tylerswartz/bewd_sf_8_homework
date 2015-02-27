@@ -11,3 +11,5 @@
 6) a fork is a copy of a repo that is a snapshot of that repo at a particular point in time
 
 7) you make a pull request when you want to merge a change you've made to a file(s) back into the repo you forked from.  The person(s) that own(s) the repo can accept or reject your pull request
+
+8) cloning is copying a repo so you can still get changes to it as the main repo is updated (via git pull / fetch).  forking is when you take a snapshot of a repo that doesn’t change 
