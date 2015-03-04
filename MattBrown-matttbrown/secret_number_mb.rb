@@ -6,14 +6,14 @@ puts "Well hello there, " + name + "!\n\n"
 
 puts "So, here's how you play Secret Number: you have three tries to guess a number between 1 and 10.  Sounds fun?  Let's play!\n\n"
 
-secret_number = rand(1..5)
+secret_number = rand(1..10)
 number_of_guesses = 0
 
 while number_of_guesses < 3
 	puts "What's your guess?"
 	guess = gets.to_i
-	if guess.between?(1,5) == false
-		puts "Enter a number between 1 and 5!"
+	if guess.between?(1,10) == false
+		puts "Enter a number between 1 and 10!"
 	else
 		if guess == secret_number
 			number_of_guesses = number_of_guesses + 3
