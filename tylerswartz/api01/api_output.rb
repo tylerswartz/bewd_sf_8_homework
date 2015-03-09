@@ -9,6 +9,7 @@ require 'rest-client'
 #ask for zipcode
 puts 'This is outputed information from the Google Maps API'
 puts 'What US zipcode would you like to look up?'
+
 zipcode = gets.chomp
 
 #send GET request to Google
